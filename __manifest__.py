@@ -24,7 +24,7 @@
         'views/partner.xml',
         'views/session_workflow.xml',
         'views/session_board.xml',
-        'reports.xml',
+        'views/reports.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
